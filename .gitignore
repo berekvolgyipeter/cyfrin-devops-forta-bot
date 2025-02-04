@@ -1,0 +1,7 @@
+forta.config.json
+__pycache__
+.pytest_cache
+node_modules
+.DS_Store
+.env
+.idea
